@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>PwC Monthly Economist Report</title>
+    <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report.html</link>
+    <description>PwC Japanグループが発行する月次マクロ経済レポートのRSSフィード</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 08 Sep 2026 17:40:37 +0900</lastBuildDate>
+    <item>
+      <title>World Trend Foresight：世界動向への洞察</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/world-trend-foresight.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g629359140.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="World Trend Foresight：世界動向への洞察" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;世界各国の地政学、外交、資源・エネルギー、気候変動、国内政治、重要産業政策など、企業経営に大きな影響を及ぼしかねない外部環境をテーマとしたレポートを発行しています。&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/world-trend-foresight.html</guid>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Emerging Technology Insights：新興テクノロジーへの洞察</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/emerging-technology-insights.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/gx/en/brand-simplified/teaser-images-670/communications/damil_123262-670.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="Emerging Technology Insights：新興テクノロジーへの洞察" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;新興テクノロジーのトレンドやそれが企業経営に及ぼす影響について分析し、独自の考察をまとめたレポートを発行しています。&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/emerging-technology-insights.html</guid>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Economic Forecast Report：経済見通しレポート</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/economic-forecast-report.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g1047609176.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="Economic Forecast Report：経済見通しレポート" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;足元の経済指標をもとに、実質GDPや物価の推移を予測。日本経済の見通しについて、四半期ごとにレポートを発行しています。&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/economic-forecast-report.html</guid>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Weekly Macro Economic Insights：週次マクロ経済レポート</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/weekly-macro-economic-insights.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/gx/en/brand-simplified/teaser-images-670/real-estate/damil-gettyimages-591478749-670.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="Weekly Macro Economic Insights：週次マクロ経済レポート" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;1週間の経済動向を振り返りながら、旬のトピックに対して独自の視点で考察。国内や海外（欧米や中国など）の状況も含め、週次でレポートを発行しています。&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/weekly-macro-economic-insights.html</guid>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Daily Macro Economic Insights：日次マクロ経済レポート</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/daily-macro-economic-insights.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/oinly-prop-g1249022343.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="Daily Macro Economic Insights：日次マクロ経済レポート" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;消費、生産、投資、貿易、物価、労働市場などのさまざまな経済指標から日本経済の現在の状況を考察し、日次でレポートを発行しています。&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/daily-macro-economic-insights.html</guid>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>国内販売の低迷と輸出急拡大に直面する中国自動車産業（2026年5月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202605-2.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="国内販売の低迷と輸出急拡大に直面する中国自動車産業（2026年5月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 薗田直孝）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202605-2.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ガバナンス・インサイト・シリーズ―価値創造経営― vol.2：戦略的なレジリエンスへ―企業評価の枠組みの変容（2026年6月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202606.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="ガバナンス・インサイト・シリーズ―価値創造経営― vol.2：戦略的なレジリエンスへ―企業評価の枠組みの変容（2026年6月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 朝岡大輔）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202606.html</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ガバナンス・インサイト・シリーズ ―価値創造経営― vol.3：企業価値の質を高める―経済利益の意義（2026年7月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="ガバナンス・インサイト・シリーズ ―価値創造経営― vol.3：企業価値の質を高める―経済利益の意義（2026年7月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 朝岡大輔）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607.html</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国経済・産業の構造変化と日本企業への示唆―北京、上海出張を踏まえて（2026年7月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-2.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="中国経済・産業の構造変化と日本企業への示唆―北京、上海出張を踏まえて（2026年7月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 薗田直孝、シニアマネージャー 相川高信）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-2.html</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ガバナンス・インサイト・シリーズ ―価値創造経営― vol.4：コーポレートガバナンス・コード改訂――成長を目指して（2026年7月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-4.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="ガバナンス・インサイト・シリーズ ―価値創造経営― vol.4：コーポレートガバナンス・コード改訂――成長を目指して（2026年7月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 朝岡大輔）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-4.html</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「内需の減速」と「外需の下支え」に直面し、正念場を迎える中国経済（2026年7月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-3.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="「内需の減速」と「外需の下支え」に直面し、正念場を迎える中国経済（2026年7月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 薗田直孝）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-3.html</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の消費主導型経済への挑戦―消費拡大「第15次五か年計画」から読む中国経済の構造転換と方向性（2026年8月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202608.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="中国の消費主導型経済への挑戦―消費拡大「第15次五か年計画」から読む中国経済の構造転換と方向性（2026年8月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 薗田直孝）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202608.html</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ガバナンス・インサイト・シリーズ ―価値創造経営― vol.5：企業価値を巡る攻防――「企業買収における行動指針」からみる（2026年9月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202609.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="ガバナンス・インサイト・シリーズ ―価値創造経営― vol.5：企業価値を巡る攻防――「企業買収における行動指針」からみる（2026年9月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 朝岡大輔）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202609.html</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
