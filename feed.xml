@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 19:36:30 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:57:03 +0900</lastBuildDate>
     <item>
       <title>World Trend Foresight：世界動向への洞察</title>
       <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/world-trend-foresight.html</link>
@@ -42,13 +42,6 @@
       <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/oinly-prop-g1249022343.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="Daily Macro Economic Insights：日次マクロ経済レポート" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;消費、生産、投資、貿易、物価、労働市場などのさまざまな経済指標から日本経済の現在の状況を考察し、日次でレポートを発行しています。&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/daily-macro-economic-insights.html</guid>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ガバナンス・インサイト・シリーズ ―価値創造経営― vol.3：企業価値の質を高める―経済利益の意義（2026年7月）</title>
-      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607.html</link>
-      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="ガバナンス・インサイト・シリーズ ―価値創造経営― vol.3：企業価値の質を高める―経済利益の意義（2026年7月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 朝岡大輔）&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607.html</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>中国経済・産業の構造変化と日本企業への示唆―北京、上海出張を踏まえて（2026年7月）</title>
@@ -98,6 +91,13 @@
       <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="ガバナンス・インサイト・シリーズ ―価値創造経営― vol.7：インフレ転換期の資本コスト上昇と向き合う（2026年10月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 朝岡大輔）&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202610.html</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>飲食料品の消費税率1％への引下げがもたらす家計支援と需要の移動 （2026年10月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-2.pdf</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-2.pdf/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="飲食料品の消費税率1％への引下げがもたらす家計支援と需要の移動 （2026年10月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence エコノミスト 白根啓史）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-2.pdf</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
