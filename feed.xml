@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 19:57:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:03:51 +0900</lastBuildDate>
     <item>
       <title>World Trend Foresight：世界動向への洞察</title>
       <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/world-trend-foresight.html</link>
@@ -42,13 +42,6 @@
       <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/oinly-prop-g1249022343.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="Daily Macro Economic Insights：日次マクロ経済レポート" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;消費、生産、投資、貿易、物価、労働市場などのさまざまな経済指標から日本経済の現在の状況を考察し、日次でレポートを発行しています。&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/daily-macro-economic-insights.html</guid>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国経済・産業の構造変化と日本企業への示唆―北京、上海出張を踏まえて（2026年7月）</title>
-      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-2.html</link>
-      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="中国経済・産業の構造変化と日本企業への示唆―北京、上海出張を踏まえて（2026年7月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 薗田直孝、シニアマネージャー 相川高信）&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202607-2.html</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「内需の減速」と「外需の下支え」に直面し、正念場を迎える中国経済（2026年7月）</title>
@@ -93,11 +86,18 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>飲食料品の消費税率1％への引下げがもたらす家計支援と需要の移動 （2026年10月）</title>
-      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-2.pdf</link>
-      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-2.pdf/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="飲食料品の消費税率1％への引下げがもたらす家計支援と需要の移動 （2026年10月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence エコノミスト 白根啓史）&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-2.pdf</guid>
+      <title>飲食料品の消費税率1％への引下げがもたらす家計支援と需要の移動（2026年10月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202610-2.html</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/image/only-prop-g495828377.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="飲食料品の消費税率1％への引下げがもたらす家計支援と需要の移動（2026年10月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence エコノミスト 白根啓史）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/monthly-economist-report/monthly-economist-report202610-2.html</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>内需が伸び悩み、外需依存が強まる中国経済―2026年第3四半期の経済指標を踏まえた展望 （2026年10月）</title>
+      <link>https://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-3.pdf</link>
+      <description>&lt;img src="https://www.pwc.com/content/dam/pwc/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-3.pdf/jcr:content/renditions/cq5dam.thumbnail.319.319.png" alt="内需が伸び悩み、外需依存が強まる中国経済―2026年第3四半期の経済指標を踏まえた展望 （2026年10月）" style="max-width:100%;"/&gt;&lt;br/&gt;&lt;p&gt;Monthly Economist Report（PwC Intelligence シニアエコノミスト 薗田直孝）&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/monthly-economist-report202610-3.pdf</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
